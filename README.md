@@ -81,4 +81,4 @@ Este proyecto está bajo la licencia MIT.
 
 ## Contacto
 
-Para dudas o sugerencias, escribe a [tu_email@ejemplo.com](mailto:emanueltorrestrujillo@gmail.com)
+Para dudas o sugerencias, escribe a [tu_emanueltorrestrujillo@gmail.com](mailto:emanueltorrestrujillo@gmail.com)
